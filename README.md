@@ -12,19 +12,13 @@ To run this project, you will need:
 
 To install the project, please follow these steps:
 
-1. Clone the repository to your local machine.
-
-```
-git clone https://github.com/smallpaes/ts-todo-list-frontend.git
-```
-
-2. Open a terminal and navigate to the project directory.
+1. Open a terminal and navigate to the project directory.
 
 ```
 cd ts-todo-list-frontend
 ```
 
-3. Run the following command to install the dependencies:
+2. Run the following command to install the dependencies:
 
 ```
 npm install
